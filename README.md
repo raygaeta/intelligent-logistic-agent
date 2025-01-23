@@ -10,7 +10,8 @@
 
 3. **Automate Tasks:**  
    Leverages an AI worker to autonomously perform tasks, like making phone calls or sending emails, based on the user's approval or pre-set rules.
-
+   
+[ IN PROGRESS / CODE PROPRIETARY FOR NOW ]
 <p align="center">
   <img src="public/images/desktop-live-transcription.png" alt="Image 1" width="600">
   <img src="public/images/mobile-collapsed.png" alt="Image 2" width="200">
